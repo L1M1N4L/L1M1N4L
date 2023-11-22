@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @L1M1N4L
 
-Hello! I'm Jonathan, a passionate student currently pursuing my education in Computer Science. I'm on a mission to become a well-rounded global citizen and make a positive impact in the world.
+Hello! I'm L1M1N4L, a passionate student currently pursuing my education in Computer Science. I'm on a mission to become a well-rounded global citizen and make a positive impact in the world.
 
 ## 👀 I’m interested in...
 
@@ -40,5 +40,4 @@ I'm open to networking with like-minded individuals, industry experts, and fello
 
 ## 📊 GitHub Stats
 
-```markdown
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=L1M1N4L&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?L1M1N4L= &theme=radical)
