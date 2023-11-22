@@ -40,4 +40,4 @@ I'm open to networking with like-minded individuals, industry experts, and fello
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?usernameL1M1N4L=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L1M1N4L=&theme=radical)
