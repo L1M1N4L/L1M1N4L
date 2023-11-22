@@ -1,43 +1,74 @@
-# 👋 Hi, I’m @L1M1N4L
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=L1M1N4L.L1M1N4L" />
 
-Hello! I'm L1M1N4L, a passionate student currently pursuing my education in Computer Science. I'm on a mission to become a well-rounded global citizen and make a positive impact in the world.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonathan!;" />
+</h1>
 
-## 👀 I’m interested in...
+<h3 align="center">A passionate student pursuing Computer Science from Binus International</h3>
 
-- **Education:** Currently studying Computer Science.
-- **Languages:** Proficient in English, Indonesian, Japanese, and Chinese.
-- **Programming:** Skilled in C++, Python, and Java.
-- **Technology:** Experienced in Arduino programming, electrical science, and software engineering.
-- **Multicultural Experience:** Aspiring global citizen with cultural exposure through language proficiency and diverse projects.
+<br/>
 
-## 🌱 I’m currently learning...
+<div align="center">
+ 
+ 🔭 I’m currently working on **expanding my programming skills**
+ 
+ 🌱 I’m currently learning **new technologies and programming languages**
 
-- **Advanced Skills:** Pursuing a comprehensive understanding of Computer Science and advanced programming languages.
-- **Professional Growth:** Actively seeking opportunities to expand my skill set, engage in exciting projects, and connect with professionals.
+💬 Ask me about **technology, programming, languages, or any exciting opportunities [here](https://github.com/L1M1N4L/L1M1N4L/issues)**
 
-## 💞 I’m looking to collaborate on...
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- **Technology Projects:** Open to collaborations on innovative tech projects.
-- **Language Exchange:** Interested in language-related collaborations or discussions.
-- **Education Initiatives:** Passionate about contributing to educational initiatives and projects.
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=your-icons-here" />
+    <img src="https://skillicons.dev/icons?i=your-other-icons-here" /><br>
+</div>
 
-## 📫 How to reach me...
+<br/>
+<hr/>
 
-I'm open to networking with like-minded individuals, industry experts, and fellow students. If you'd like to discuss technology, programming, languages, or any exciting opportunities, feel free to reach out!
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/L1M1N4L/L1M1N4L/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 🎓 About Me
+<hr/>
 
-- **Education:** Currently pursuing a degree in Computer Science.
-- **Professional Experience:**
-  - GDSC Technical Developer (Oct 2023 - Present)
-  - Transtel Publications Editor (Jun 2023 - Jul 2023)
-  - zioncom technology Ltd Software Engineer Intern (Apr 2023 - Jun 2023)
-  - ダルマ日本語講習 Video Editor (Jun 2021 - Aug 2022)
-- **Skills:**
-  - Languages: English, Indonesian, Japanese, Chinese
-  - Programming: C++, Python, Java, Arduino
-  - Tools: Adobe Photoshop, Illustrator, After Effects, Premiere Pro
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=L1M1N4L&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=L1M1N4L&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1M1N4L&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## 📊 GitHub Stats
+<br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L1M1N4L&theme=radical)
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/your-kofi-link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
