@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,raspberrypi,tensorflow,flutter,vscode,github,figma,tailwind,git,regex,arduino" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,regex,dart,firebase,mongodb,c,java,mysql,ruby,ableton,cpp,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,raspberrypi,tensorflow,flutter,vscode,github,figma,tailwind,git,regex,arduino,html" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,regex,dart,firebase,mongodb,c,java,mysql,ruby,ableton,cpp,pytorch,css" /><br>
 </div>
 
 <br/>
